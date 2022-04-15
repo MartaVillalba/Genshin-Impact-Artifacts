@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Data visualization
+    chapters:
+    - file: data_visualization/5_stars/5_stars_visualization.ipynb
+      #sections:
+      #- file: ...
+    - file: data_visualization/4_stars/4_stars_visualization.ipynb
+      #sections:
+      #- file: ...
