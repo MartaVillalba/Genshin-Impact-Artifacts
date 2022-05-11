@@ -6,9 +6,9 @@ root: intro
 parts:
   - caption: Data visualization
     chapters:
-    - file: data_visualization/5_stars/5_stars_visualization.ipynb
-      #sections:
-      #- file: ...
-    - file: data_visualization/4_stars/4_stars_visualization.ipynb
+    - file: data_visualization/summary/artifact_types_summary.ipynb
+      sections:
+      - file: data_visualization/code/artifact_types_code.ipynb
+    #- file: data_visualization/4_stars/4_stars_visualization.ipynb
       #sections:
       #- file: ...
