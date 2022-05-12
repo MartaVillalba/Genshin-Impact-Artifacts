@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Source code - Frecuency of artifact types
+# # Plots source code
 
 # ## Data load
 
